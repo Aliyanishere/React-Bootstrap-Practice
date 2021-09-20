@@ -1,0 +1,21 @@
+.nave{
+  background-color: cadetblue;
+  color: darkgoldenrod;
+  text-shadow: 3px 3px 6px black;
+}
+.Footere{
+  background-color: aqua;
+  color: cornflowerblue;
+  text-shadow: 1px 1px 2px black;
+}
+.contente{
+  margin: 13% auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.Ali{
+  color: deeppink;
+  text-shadow: 8px 8px 6px forestgreen;
+  background-color: chartreuse;
+}
